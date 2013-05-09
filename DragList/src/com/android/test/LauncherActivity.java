@@ -8,7 +8,6 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
 import com.android.test.draglistview.DragListActivity;
-import com.fengjian.test.draggridview2.DragGridMoveActivity;
 
 public class LauncherActivity extends ListActivity {
 

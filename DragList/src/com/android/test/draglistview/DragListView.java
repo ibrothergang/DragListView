@@ -1,12 +1,7 @@
 package com.android.test.draglistview;
 
-import java.util.ArrayList;
-import java.util.List;
-
-import android.R.integer;
 import android.content.Context;
 import android.graphics.Bitmap;
-import android.graphics.Color;
 import android.graphics.PixelFormat;
 import android.os.Handler;
 import android.util.AttributeSet;
@@ -27,7 +22,6 @@ import android.widget.ImageView;
 import android.widget.ListView;
 
 import com.fengjian.test.R;
-import com.fengjian.test.draggridview2.DateAdapter;
 
 /**
  * гавўВи
